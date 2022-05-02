@@ -17,3 +17,9 @@ Multiplication
 num1=2
 num2=3
 sum3=num1*num2
+
+Division
+
+num1=10
+num2=2
+sum4=num1/num2
